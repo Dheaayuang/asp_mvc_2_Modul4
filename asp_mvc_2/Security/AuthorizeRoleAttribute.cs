@@ -1,6 +1,6 @@
 ﻿using System.Web;
 using System.Web.Mvc;
-using Asp_mvc_2.Models.EntityManager;
+using asp_mvc_2.Models.EntityManager;
 using asp_mvc_2.Models.DB;
 
 namespace asp_mvc_2.Security

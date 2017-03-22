@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Security;
 using asp_mvc_2.Models.ViewModel;
-using Asp_mvc_2.Models.EntityManager;
+using asp_mvc_2.Models.EntityManager;
 using static asp_mvc_2.Models.ViewModel.UserModel;
 
 namespace asp_mvc_2.Controllers
